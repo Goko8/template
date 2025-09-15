@@ -25,3 +25,5 @@ Modern ve şık tasarımlı giriş sayfası template'i.
 ## Özelleştirme
 - `TODO` yorumlarını takip ederek backend entegrasyonu yapın
 - Renk paletini CSS değişkenlerinden değiştirebilirsiniz
+
+- Canlı Demo Linki: https://goko8.github.io/template
